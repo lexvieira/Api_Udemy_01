@@ -22,6 +22,8 @@ namespace OOP_API1
 
             guysPromoter.Vlog();
 
+            Console.WriteLine("My Business Card {0}",guysPromoter.MyBusinessCard);
+
         }
     }
 }
